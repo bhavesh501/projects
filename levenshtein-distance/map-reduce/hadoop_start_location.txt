@@ -1,0 +1,4 @@
+/usr/local/Cellar/hadoop/2.8.2/sbin
+
+To use with IntelliJ, set the Scala home to:
+  /usr/local/opt/scala/idea
